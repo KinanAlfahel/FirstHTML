@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "file:///C:/Users/KFL/Documents/HTML/MyFirstHTML.html">
+<html>
+    <head>
+        <title> THE SUICIDE SQUAD </title>
+    </head>
+    <body>
+        
+        <h1><br>NEW MOVIE</h1>
+        <h2>THE SUICIDE SQUAD</h2>
+        </p>
+        <p>
+            <picture>
+                <!-- <source media = "(min-width:650px)" srcset="C:\Users\KFL\Desktop\wp5271815.jpg"> -->
+                <img src="C:\Users\KFL\Desktop\wp5271815.jpg" alt="postar" style= "width:265px;">
+            </picture>
+        </p>
+    <div>
+        <video width="320" height="240" controls>
+            <source src="www.youtube.com/watch?v=jz1FrtMIh5c" type="data-video-url">   
+        </video><br>
+    </div>
+    <div>
+        <!-- <button type="button">Movie Trailer</button> -->
+        <button data-video-url="www.youtube.com/watch?v=jz1FrtMIh5c">Movie Trailer</button>
+    </div>
+    <div>
+        <!-- <label for="browser">Choose your browser from the list</label>
+        <input list="brosers" name="" id="browser"> -->
+        <!-- <datalist>
+            <value=<a href="https://www.w3schools.com">descrption</a>>
+            <value=<a href="https://www.w3schools.com">descrption</a>>
+
+
+            <option value=<a>       </a>>
+        </datalist> -->
+        <article>
+        <ol>
+            <h3>References</h3>
+            <li><a href="https://www.imdb.com/title/tt6334354/">imdb.com</li>
+            <li><a href="https://sv.wikipedia.org/wiki/The_Suicide_Squad_(film)">wikipedia.org</li>
+            <li><a href="https://ew.com/movies/the-suicide-squad-james-gunn-margot-robbie-idris-elba/">ew.com</li>
+        </ol>
+    </article>
+    </div>
+    </body>
+    <footer>
+        <p> Author: Kinan </p>
+        <p> By FS </p>
+    </footer>    
+</html>
