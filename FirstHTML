@@ -2,6 +2,7 @@
 <html lang="en">
     <head>
         <title> THE SUICIDE SQUAD </title>
+        <link rel="Stylesheet" href="Stylesheet.css">
     </head>
     <body>
     <div style="background-color: burlywood;color: darkred; text-align: center;">
