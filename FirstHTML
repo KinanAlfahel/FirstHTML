@@ -9,24 +9,23 @@
         <h2>THE SUICIDE SQUAD</h2>
         <p>
             <picture>
-                <img src="C:\Users\KFL\Desktop\wp5271815.jpg" alt="postar" style= "width:500px;" height="270">
+                <img src="https://static2.srcdn.com/wordpress/wp-content/uploads/2020/08/Suicide-Squad-2-Poster-Cropped-Header.jpg" alt="postar" style= "width:500px;" height="270">
             </picture>
         </p>
           <p></p>
         <h3>Trailer:</h3>
         <iframe width="500" height="265" src="https://www.youtube.com/embed/jz1FrtMIh5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
-    <div style="background-color: burlywood; font-size: large;">
-        <article>
-        <ol>
-            References
-            <li><a href="https://www.imdb.com/title/tt6334354/"></a>imdb.com</li>
-            <li><a href="https://sv.wikipedia.org/wiki/The_Suicide_Squad_(film)"></a>wikipedia.org</li>
-            <li><a href="https://ew.com/movies/the-suicide-squad-james-gunn-margot-robbie-idris-elba/"></a>ew.com</li>
-        </ol>
-    </article>
+    <div style="background-color: burlywood; font-size: large; text-align: center;">
+        Links:
+        <ul>
+            
+            <a href="https://www.imdb.com/title/tt6334354/">imdb.com</a>   
+            <a href="https://sv.wikipedia.org/wiki/The_Suicide_Squad_(film)">wikipedia.org</a>
+            <a href="https://ew.com/movies/the-suicide-squad-james-gunn-margot-robbie-idris-elba/">ew.com</a>
+        </ul>
     </div>
-    <footer style="height: 50; background-color: rgb(184, 224, 184);">
+    <footer style="height: 50; background-color: rgb(184, 224, 184); text-align: center;">
         <p style="font-size: large;"> Author: Kinan </p>
         <p style="font-size: large;"> By FS </p>
     </footer> 
