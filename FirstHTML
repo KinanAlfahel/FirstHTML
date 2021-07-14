@@ -4,19 +4,19 @@
         <title> THE SUICIDE SQUAD </title>
     </head>
     <body>
-        <h1><br>NEW MOVIE</h1>
+    <div style="background-color: burlywood;color: darkred; text-align: center;">
+        <br><H1>NEW MOVIE</h1>
         <h2>THE SUICIDE SQUAD</h2>
         <p>
             <picture>
                 <img src="C:\Users\KFL\Desktop\wp5271815.jpg" alt="postar" style= "width:500px;" height="270">
             </picture>
         </p>
-    <div>
-        <p></p>
+          <p></p>
         <h3>Trailer:</h3>
         <iframe width="500" height="265" src="https://www.youtube.com/embed/jz1FrtMIh5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        
     </div>
+    <div style="background-color: burlywood; font-size: large;">
         <article>
         <ol>
             References
@@ -26,9 +26,9 @@
         </ol>
     </article>
     </div>
-    <footer>
-        <p> Author: Kinan </p>
-        <p> By FS </p>
+    <footer style="height: 50; background-color: rgb(184, 224, 184);">
+        <p style="font-size: large;"> Author: Kinan </p>
+        <p style="font-size: large;"> By FS </p>
     </footer> 
     </body>
        
